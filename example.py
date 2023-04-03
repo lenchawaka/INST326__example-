@@ -10,8 +10,9 @@ class person:
     a person in the class name
 
     Attributes:
-            name (str): the person's name
+            name (str): The person's name
             conneciton:  connection to the person
+            " you suck"
 
 
     """
