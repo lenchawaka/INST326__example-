@@ -12,8 +12,6 @@ class person:
     Attributes:
             name (str): The person's name
             conneciton:  connection to the person
-            " you suck"
-
-
+            " you suck
     """
 
