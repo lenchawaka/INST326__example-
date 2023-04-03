@@ -15,3 +15,5 @@ class person:
 
 
     """
+class school:
+    """" docu string """
