@@ -1,6 +1,5 @@
 """"
 this is a simple example of using git for inst 326
-this is a different one
 """
 
 
@@ -14,4 +13,7 @@ class person:
             conneciton:  connection to the person
             " you suck
     """
+
+class school:
+    """" docu string now """
 
