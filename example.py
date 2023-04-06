@@ -17,3 +17,7 @@ class person:
 class school:
     """" docu string now """
 
+
+class John cena:
+
+    """ Eat nig"""
